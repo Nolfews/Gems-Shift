@@ -15,10 +15,10 @@ Closes #
 
 My code follows the project's conventions :
 
-[] I removed unnecessary code/comments
-[] I tested the changes in-game
-[] I updated the documentation if necessary
-[] I checked that no unnecessary generated or temporary files are included
+[ ] I removed unnecessary code/comments
+[ ] I tested the changes in-game
+[ ] I updated the documentation if necessary
+[ ] I checked that no unnecessary generated or temporary files are included
 
 Review notes
 
