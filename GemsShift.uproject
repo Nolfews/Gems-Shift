@@ -26,6 +26,6 @@
 		{
 			"Name": "AllToolsets",
 			"Enabled": true
-		},
+		}
 	]
 }
