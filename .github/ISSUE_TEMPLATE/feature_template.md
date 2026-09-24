@@ -13,9 +13,9 @@ Explain why this task is needed or what problem it solves.
 
 **Acceptance Criteria**
 List the requirements or conditions for this task to be considered complete.
-- [] Criterion 1
-- [] Criterion 2
-- [] Criterion 3
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
 
 **Additional Information**
 Add any other relevant details, links, or resources.
